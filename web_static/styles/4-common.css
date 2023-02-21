@@ -3,6 +3,7 @@ body {
     padding: 0;
     color: #484848;
     font-size: 14px;
+<<<<<<< HEAD
     font-family: Circular, "Helvetica Neue", Arial, sans-serif;
 }
 div.container {
@@ -10,3 +11,11 @@ div.container {
     margin: 30px auto;
     /* text-align: center; */
 }
+=======
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+body .container {
+    max-width: 1000px;
+    margin: 30px auto;
+}
+>>>>>>> 92ae02874b854d207c33886a883c540336b37c69

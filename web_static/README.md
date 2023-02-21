@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Airbnb Clone
 
 #### Description
@@ -15,3 +16,6 @@
 * OS: Ubuntu 14.04 LTS
 * Style guidelines: ```./wc3validator.py [filename]```
 * Preview: paste index.html link and run on: http://htmlpreview.github.io/?
+=======
+web_static
+>>>>>>> 92ae02874b854d207c33886a883c540336b37c69

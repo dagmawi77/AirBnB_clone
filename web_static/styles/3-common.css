@@ -3,5 +3,10 @@ body {
     padding: 0;
     color: #484848;
     font-size: 14px;
+<<<<<<< HEAD
     font-family: Circular, "Helvetica Neue", Arial, sans-serif;
 }
+=======
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+>>>>>>> 92ae02874b854d207c33886a883c540336b37c69

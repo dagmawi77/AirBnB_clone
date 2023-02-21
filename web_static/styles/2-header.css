@@ -1,5 +1,12 @@
 header {
+<<<<<<< HEAD
     background-color: #FF0000;
     height: 70px;
     width: 100%;
 }
+=======
+    background: #FF0000;
+    height: 70px;
+    width: 100%;
+}
+>>>>>>> 92ae02874b854d207c33886a883c540336b37c69
